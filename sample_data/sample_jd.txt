@@ -1,0 +1,4 @@
+We are looking for a Software Engineer with strong Python and FastAPI experience.
+The candidate should understand REST API development, Docker, Git, SQL databases,
+Postman testing, Linux, and basic machine learning using scikit-learn.
+Experience with authentication, deployment, and cloud platforms is a plus.
